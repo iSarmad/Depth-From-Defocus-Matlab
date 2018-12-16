@@ -3,7 +3,8 @@ This is a Matlab implementation of Depth from Defocus using your mobile phone. I
 
 This Repo is the implementation of the following paper:
 
-* [ImageMatting](https://ieeexplore.ieee.org/document/4359322/) A closed form solution to natural image matting
+* [ImageMatting](https://ieeexplore.ieee.org/document/4359322/) A Closed form solution to natural image matting
+* [WMF](https://ieeexplore.ieee.org/document/6751115) Constant Time Weighted Median Filtering for Stereo Matching and Beyond
 
 
 ### Prerequisites
@@ -23,16 +24,31 @@ Two different datasets have been included in the repository. You can also create
  The following steps are performed:
  
 ### Step1
-![alt text](https://github.com/iSarmad/Style-Transfer-Pytorch/blob/master/Result%20Images/wstyle%20one/Test/alpha1.png)
+![alt text](https://github.com/iSarmad/Depth-From-Defocus-Matlab/blob/master/results/1.PNG)
 
 ### Step2
+![alt text](https://github.com/iSarmad/Depth-From-Defocus-Matlab/blob/master/results/2.PNG)
 ### Step3
+![alt text](https://github.com/iSarmad/Depth-From-Defocus-Matlab/blob/master/results/3.PNG)
 ### Step4
+![alt text](https://github.com/iSarmad/Depth-From-Defocus-Matlab/blob/master/results/4.PNG)
 ### Step5
+![alt text](https://github.com/iSarmad/Depth-From-Defocus-Matlab/blob/master/results/5.PNG)
 
+### Step6
+![alt text](https://github.com/iSarmad/Depth-From-Defocus-Matlab/blob/master/results/6.PNG)
 
+### Step7
+![alt text](https://github.com/iSarmad/Depth-From-Defocus-Matlab/blob/master/results/7.PNG)
+### Step8
+![alt text](https://github.com/iSarmad/Depth-From-Defocus-Matlab/blob/master/results/8.PNG)
+### Step9
+![alt text](https://github.com/iSarmad/Depth-From-Defocus-Matlab/blob/master/results/9.PNG)
+### Step10
+![alt text](https://github.com/iSarmad/Depth-From-Defocus-Matlab/blob/master/results/10.PNG)
 
-
+### Step11
+![alt text](https://github.com/iSarmad/Depth-From-Defocus-Matlab/blob/master/results/11.PNG)
 ## License
 
 This project is licensed under the MIT License. 
@@ -42,4 +58,3 @@ For specific helper function used in this repository please see the license agre
 My implementation has been inspired from the following sources.
 
 * [gco-v3.0](https://github.com/nsubtil/gco-v3.0) : I do not own any part of this library included in my code
-* [xunhuang195](https://github.com/xunhuang1995/AdaIN-style) - Official Implementation in Torch
