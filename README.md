@@ -23,14 +23,18 @@ Two different datasets have been included in the repository. You can also create
 ## Steps
  The following steps are performed:
  
-### Step1
+### Step1 
+Sample Image from Focal Stack
 ![alt text](https://github.com/iSarmad/Depth-From-Defocus-Matlab/blob/master/results/1.PNG)
 
 ### Step2
+Sample Image Focus measure
 ![alt text](https://github.com/iSarmad/Depth-From-Defocus-Matlab/blob/master/results/2.PNG)
 ### Step3
+Initial Focus Map 
 ![alt text](https://github.com/iSarmad/Depth-From-Defocus-Matlab/blob/master/results/3.PNG)
 ### Step4
+
 ![alt text](https://github.com/iSarmad/Depth-From-Defocus-Matlab/blob/master/results/4.PNG)
 ### Step5
 ![alt text](https://github.com/iSarmad/Depth-From-Defocus-Matlab/blob/master/results/5.PNG)
